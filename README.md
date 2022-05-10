@@ -13,6 +13,7 @@
 
 - 🌱 I’m currently learning
 - - C++14/C++17
+- - C98 and newer
 - - GitHub
 
 - 💞️ I’m looking to collaborate on
