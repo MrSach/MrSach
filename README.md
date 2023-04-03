@@ -4,22 +4,22 @@
 - - Software Engineering
 - - Utility Development
 - - Automation
-- - Robust Toolchain Development
-- - Interactive Multimedia (Computer Games, etc.)
-- - Software Development
-- - Library Development
+- - Toolchains
+- - Interactive multimedia (computer games, etc.)
+- - Software development
+- - Library development
 - - FOSS software projects
-- - Systems Optimisation
+- - Systems optimisation
 
 - 🌱 I’m currently learning
-- - C++14/C++17
-- - C98 and newer
+- - C++17
+- - C89, C99, C11
 - - GitHub
 
 - 💞️ I’m looking to collaborate on
 - - Open Source projects
 - - Using my Linux and programming skills in order to develop community-oriented solutions.
-- - Commercial projects
+- - Commercial projects as a C++ software developer/engineer.
 
 - 📫 How to reach me
 - - In progress... check back later for an update!
@@ -32,6 +32,7 @@
 - - CSS
 - - Java
 - - Python
+- - ...and various other scripting languages...
 
 <!---
 MrSach/MrSach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
