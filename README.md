@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrSach
 
 - 👀 I’m interested in:
-- - Software Engineering
-- - Utility Development
+- - Software engineering
+- - Utility development
 - - Automation
 - - Toolchains
 - - Interactive multimedia (computer games, etc.)
