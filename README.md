@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrSach
+- 👋 Hello, I am @MrSach
 
 - 👀 I’m interested in:
   - Software engineering
@@ -12,9 +12,11 @@
   - Systems optimisation
 
   🌱 I’m currently learning
-  - C++17
+  - C++17, C++20
   - C89, C99, C11
   - GitHub
+  - C++ Web Development frameworks (Wt, Drogon)
+  - AI and Machine Learning
 
 - 💞️ I’m looking to collaborate on
   - Open Source projects
