@@ -28,6 +28,8 @@
 
 - Skillsets previously developed and utilitsed:
   - Linux bash
+  - Windows cmd
+  - Windows Powershell
   - PHP
   - MySQL
   - JavaScript
