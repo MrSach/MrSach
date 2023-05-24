@@ -10,6 +10,7 @@
   - Library development
   - FOSS software projects
   - Systems optimisation
+  - Creating quality code
 
   🌱 I’m currently learning
   - C++17, C++20
