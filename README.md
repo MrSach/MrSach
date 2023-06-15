@@ -9,7 +9,10 @@
     - https://github.com/MrSach/LeetCode-Exercise-Attempts-CPP
   - Challenges - Beginning C++ Programming - From Beginner to Beyond
     - https://github.com/MrSach/Beginning-C-Programming---From-Beginner-to-Beyond
-  
+  - Assignments - C Programming For Beginners - Master the C Language
+    - https://github.com/MrSach/Assignments---C-Programming-For-Beginners---Master-the-C-Language
+  - Assignments - Advanced C Programming Course
+    - https://github.com/MrSach/AdvancedCProgrammingCourse
 
 - 👀 I’m interested in:
   - Software engineering
