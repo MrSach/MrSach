@@ -43,8 +43,9 @@
   - Using my Linux and programming skills in order to develop community-oriented solutions.
   - Commercial projects as a C/C++ software developer/engineer.
 
-- 📫 How to reach me
-  - In progress... check back later for an update!
+- 📫 How to reach out to me
+  - Feel free to send me a message on GitHub.
+  - I do not bite, I promise!
 
 - Skillsets previously developed and utilitsed:
   - Linux bash
