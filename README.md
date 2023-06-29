@@ -31,8 +31,10 @@
   🌱 I’m currently learning
   - C++17, C++20
   - C89, C99, C11
+  - Backend development
+  - Different multithreading techniques
   - GitHub
-  - GUIs (GTK, gtkmm)
+  - Frontend and GUIs (GTK, gtkmm)
   - C++ Web Development frameworks (Wt, Drogon)
   - AI and Machine Learning
 
