@@ -10,6 +10,8 @@
       - https://github.com/MrSach/LeetCode-Exercise-Attempts-CPP
     - Challenges - Beginning C++ Programming - From Beginner to Beyond
       - https://github.com/MrSach/Beginning-C-Programming---From-Beginner-to-Beyond
+    - Concurrency - Hybrid Exercise
+      - Coming soon!
    - C
      - Assignments - C Programming For Beginners - Master the C Language
        - https://github.com/MrSach/Assignments---C-Programming-For-Beginners---Master-the-C-Language
