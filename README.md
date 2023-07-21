@@ -4,6 +4,8 @@
   - C++
     - Concurrency - Hybrid Exercise
       - https://github.com/MrSach/concurrency_hybrid_exercise
+      - Source Code demo
+        - https://youtu.be/mXCHE14wQAU
     - Minor C++ Pet Projects
       - https://github.com/MrSach/CPP-Minor-Sub-projects
     - M3u playlist scanner (work in progress)
