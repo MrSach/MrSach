@@ -5,9 +5,12 @@
     - Concurrency - Hybrid Exercise
       - https://github.com/MrSach/concurrency_hybrid_exercise
       - Program demonstration
-        - https://youtu.be/CVwcx5wjjQg
+     
+        [<img src="https://i9.ytimg.com/vi/CVwcx5wjjQg/mqdefault.jpg?sqp=CMz_8KUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB6sjluhUKxX_kToj0tdhIbWxqt-A" width="33%">](https://youtu.be/CVwcx5wjjQg "C++ Concurrency Hybrid Exercise Program Demonstration")
       - Source Code demo
-        - https://youtu.be/mXCHE14wQAU
+
+        [<img src="https://i9.ytimg.com/vi/mXCHE14wQAU/mqdefault.jpg?sqp=CMz_8KUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAbx1I3Ks5Jyr-9A5JitAClOhSVOA" width="33%">](https://youtu.be/mXCHE14wQAU "C++ Concurrency Hybrid Exercise Source Code Explanation")
+
     - Minor C++ Pet Projects
       - https://github.com/MrSach/CPP-Minor-Sub-projects
     - M3u playlist scanner (work in progress)
@@ -43,11 +46,13 @@
   - Frontend and GUIs (GTK, gtkmm)
   - C++ Web Development frameworks (Wt, Drogon)
   - AI and Machine Learning
+  - Kdenlive for creating the video content
 
 - 💞️ I’m looking to collaborate on
   - Open Source projects
   - Using my Linux and programming skills in order to develop community-oriented solutions.
   - Commercial projects as a C/C++ software developer/engineer.
+  - Freelancing very welcomed!
 
 - 📫 How to reach out to me
   - Feel free to send me a message on GitHub.
