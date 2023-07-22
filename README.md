@@ -4,6 +4,8 @@
   - C++
     - Concurrency - Hybrid Exercise
       - https://github.com/MrSach/concurrency_hybrid_exercise
+      - Program demonstration
+        - https://youtu.be/CVwcx5wjjQg
       - Source Code demo
         - https://youtu.be/mXCHE14wQAU
     - Minor C++ Pet Projects
