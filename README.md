@@ -6,10 +6,10 @@
       - https://github.com/MrSach/concurrency_hybrid_exercise
       - Program demonstration
      
-        [<img src="https://i9.ytimg.com/vi/CVwcx5wjjQg/mqdefault.jpg?sqp=CMz_8KUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLB6sjluhUKxX_kToj0tdhIbWxqt-A" width="33%">](https://youtu.be/CVwcx5wjjQg "C++ Concurrency Hybrid Exercise Program Demonstration")
+        [<img src="https://github.com/MrSach/concurrency_hybrid_exercise/blob/main/resource/image/program_demo_thumb.png" width="33%">](https://youtu.be/CVwcx5wjjQg "C++ Concurrency Hybrid Exercise Program Demonstration")
       - Source Code demo
 
-        [<img src="https://i9.ytimg.com/vi/mXCHE14wQAU/mqdefault.jpg?sqp=CMz_8KUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAbx1I3Ks5Jyr-9A5JitAClOhSVOA" width="33%">](https://youtu.be/mXCHE14wQAU "C++ Concurrency Hybrid Exercise Source Code Explanation")
+        [<img src="https://github.com/MrSach/concurrency_hybrid_exercise/blob/main/resource/image/source_code_demo.png" width="33%">](https://youtu.be/mXCHE14wQAU "C++ Concurrency Hybrid Exercise Source Code Explanation")
 
     - Minor C++ Pet Projects
       - https://github.com/MrSach/CPP-Minor-Sub-projects
