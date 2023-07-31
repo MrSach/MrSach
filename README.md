@@ -3,10 +3,10 @@
 - Project Repositories:
   - C++
     - [Concurrency - Hybrid Exercise](https://github.com/MrSach/concurrency_hybrid_exercise)
-      - Program demonstration
+      - [Program demonstration](https://youtu.be/CVwcx5wjjQg)
      
         [<img src="https://github.com/MrSach/concurrency_hybrid_exercise/blob/main/resource/image/program_demo_thumb.png" width="33%">](https://youtu.be/CVwcx5wjjQg "C++ Concurrency Hybrid Exercise Program Demonstration")
-      - Source Code demo
+      - [Source Code demo](https://youtu.be/mXCHE14wQAU)
 
         [<img src="https://github.com/MrSach/concurrency_hybrid_exercise/blob/main/resource/image/source_code_demo.png" width="33%">](https://youtu.be/mXCHE14wQAU "C++ Concurrency Hybrid Exercise Source Code Explanation")
 
