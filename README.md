@@ -20,6 +20,8 @@
    - Other
      - [PHP and MySQL - Computing Coursework Assignment - School Mentoring Website](https://github.com/MrSach/computing-php-project-2009-2010)
 
+There is indeed plenty more content to add, but recently I have been very busy with other priorities.
+
 - 👀 I’m interested in:
   - Software engineering
   - Utility development
