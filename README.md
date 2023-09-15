@@ -59,6 +59,7 @@ There is indeed plenty more content to add, but recently I have been very busy w
   - Linux bash
   - Windows cmd
   - Windows Powershell
+  - No code and low code tools
   - PHP
   - MySQL
   - JavaScript
