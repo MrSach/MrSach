@@ -1,4 +1,4 @@
-- 👋 Hello, I am Sacha and welcome to my homepage for my GitHub repositories.
+👋 Hello, I am Sacha and welcome to my homepage for my GitHub repositories.
 
 - Project Repositories:
   - C++
